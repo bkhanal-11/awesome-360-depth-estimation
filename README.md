@@ -20,5 +20,5 @@
 
 | Title                                                        | Authors                      | Venue | Year | Resources                                                    |
 | :----------------------------------------------------------- | ---------------------------- | ----- | ---- | ------------------------------------------------------------ |
-| $360^{\circ}$ Depth Estimation from Multiple Fisheye Images with Origami Crown Representation of Icosahedron | Ming Li et al.  | IROS  | 2020 | [[PDF]](https://arxiv.org/pdf/2007.06891.pdf) [[CODE]](https://github.com/matsuren/crownconv360depth) |
+| $360^{\circ}$ Depth Estimation from Multiple Fisheye Images with Origami Crown Representation of Icosahedron | Ren Komatsu et al.  | IROS  | 2020 | [[PDF]](https://arxiv.org/pdf/2007.06891.pdf) [[CODE]](https://github.com/matsuren/crownconv360depth) |
 | MODE: Multi-view Omnidirectional Depth Estimation with $360^{\circ}$ Cameras | Ming Li et al.  | ECCV  | 2022 | [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_12) [[CODE]](https://github.com/nju-ee/MODE-2022) |
