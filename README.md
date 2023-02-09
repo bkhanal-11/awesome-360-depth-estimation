@@ -14,7 +14,7 @@
 | BiFuse++: Self-supervised and Efficient Bi-projection Fusion for $360^{\circ}$ Depth Estimation | Fu-En Wang et al. | 3D Research | 2022 | [[PDF]](https://arxiv.org/pdf/2209.02952.pdf) [[CODE]](https://github.com/fuenwang/BiFusev2)|
 | OmniFusion: 360 Monocular Depth Estimation via Geometry Aware Fusion | Yuyan Li et al. | CVPR | 2022 | [[PDF]](https://arxiv.org/pdf/2202.01323.pdf) [[CODE]](https://github.com/yuyanli0831/OmniFusion) |
 | 360MonoDepth: High-Resolution 360° Monocular Depth Estimation | Manuel Rey-Area et al. | CVPR | 2022 | [[PDF]](https://arxiv.org/pdf/2111.15669.pdf) [[CODE]](https://github.com/manurare/360monodepth) |
-| $ \mathcal{S}^2 $Net: Accurate Panorama Depth Estimation on Spherical Surface| Meng Li et al. | CVPR | 2023 | [[PDF]](https://arxiv.org/pdf/2301.05845.pdf)|
+| $\mathcal{S}^22$ Net: Accurate Panorama Depth Estimation on Spherical Surface| Meng Li et al. | CVPR | 2023 | [[PDF]](https://arxiv.org/pdf/2301.05845.pdf)|
 
 ### Multiple 360 images
 
