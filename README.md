@@ -12,7 +12,9 @@
 | UniFuse: Unidirectional Fusion for 360 Panorama Depth Estimation | Hualie Jiang et al. | CVPR  | 2021 | [[PDF]](https://arxiv.org/pdf/2102.03550.pdf) [[CODE]](https://github.com/alibaba/UniFuse-Unidirectional-Fusion) |
 | 360 Depth Estimation in the Wild the Depth360 Dataset and the SegFuse Network | Qi Feng et al. | CVPR | 2022 | [[PDF]](https://arxiv.org/pdf/2202.08010.pdf) [[CODE]](https://github.com/HAL-lucination/segfuse) |
 | BiFuse++: Self-supervised and Efficient Bi-projection Fusion for $360^{\circ}$ Depth Estimation | Fu-En Wang et al. | 3D Research | 2022 | [[PDF]](https://arxiv.org/pdf/2209.02952.pdf) [[CODE]](https://github.com/fuenwang/BiFusev2)|
+| PanoFormer: Panorama Transformer for Indoor $360^{\circ}$ Depth Estimation | Zhijie Shen et al. | CVPR | 2022 | [[PDF]](https://arxiv.org/pdf/2203.09283.pdf) [[CODE]](https://github.com/zhijieshen-bjtu/PanoFormer) |
 | OmniFusion: 360 Monocular Depth Estimation via Geometry Aware Fusion | Yuyan Li et al. | CVPR | 2022 | [[PDF]](https://arxiv.org/pdf/2202.01323.pdf) [[CODE]](https://github.com/yuyanli0831/OmniFusion) |
+| SphereDepth: Panorama Depth Estimation from Spherical Domain | Qingsong Yan et al. | CVPR | 2022 | [[PDF]](https://arxiv.org/pdf/2208.13714v1.pdf) [[CODE]](https://github.com/Yannnnnnnnnnnn/SphereDepth) |
 | 360MonoDepth: High-Resolution 360° Monocular Depth Estimation | Manuel Rey-Area et al. | CVPR | 2022 | [[PDF]](https://arxiv.org/pdf/2111.15669.pdf) [[CODE]](https://github.com/manurare/360monodepth) |
 | $\mathcal{S}^22$ Net: Accurate Panorama Depth Estimation on Spherical Surface| Meng Li et al. | CVPR | 2023 | [[PDF]](https://arxiv.org/pdf/2301.05845.pdf)|
 
