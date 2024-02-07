@@ -31,7 +31,7 @@
 | High-Resolution Depth Estimation for 360-degree Panoramas through Perspective and Panoramic Depth Images Registration | Chi-Han Peng et al. | WACV | 2023 | [[PDF]](https://arxiv.org/pdf/2210.10414.pdf) |
 | $\mathcal{S}^2$ Net: Accurate Panorama Depth Estimation on Spherical Surface| Meng Li et al. | CVPR | 2023 | [[PDF]](https://arxiv.org/pdf/2301.05845.pdf) [[CODE]](https://github.com/aliyun/S2net)|
 | ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth [^1] | Shariq Farooq Bhat et al. | arXiv | 2023 | [[PDF]](https://arxiv.org/pdf/2302.12288.pdf) [[CODE]](https://github.com/isl-org/ZoeDepth)|
-| EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation | Ilwi Yun et al. | ICCV | 2023 | [[PDF]](https://arxiv.org/pdf/2304.07803.pdf) |
+| EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation | Ilwi Yun et al. | ICCV | 2023 | [[PDF]](https://arxiv.org/pdf/2304.07803.pdf) [[CODE]](https://github.com/yuniw18/EGformer)|
 | Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data [^1] | Lihe Yang et al. | arXiv | 2024 | [[PDF]](https://arxiv.org/pdf/2401.10891.pdf) [[CODE]](https://github.com/LiheYoung/Depth-Anything)|
 
 ### Multiple 360 images
