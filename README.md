@@ -27,6 +27,7 @@
 | Distortion-Aware Self-Supervised $360^{\circ}$ Depth Estimation from A Single Equirectangular Projection Image | Yuya Hasegawa et al. | IEEE | 2022 | [[PDF]](https://arxiv.org/pdf/2204.01027v1.pdf) |
 | PanoFormer: Panorama Transformer for Indoor $360^{\circ}$ Depth Estimation | Zhijie Shen et al. | ECCV | 2022 | [[PDF]](https://arxiv.org/pdf/2203.09283.pdf) [[CODE]](https://github.com/zhijieshen-bjtu/PanoFormer) |
 | Learning high-quality depth map from $360^{\circ}$ multi-exposure imagery | Chao Xu et al. | Springer | 2022 | [[LINK]](https://link.springer.com/article/10.1007/s11042-022-13340-x) |
+| Adversarial Mixture Density Network and Uncertainty-based Joint Learning for $360^{\circ}$ Monocular Depth Estimation | Ilwi Yun et al. | IEEE | 2023 | [[LINK]](https://ieeexplore.ieee.org/document/10243094) |
 | High-Resolution Depth Estimation for 360-degree Panoramas through Perspective and Panoramic Depth Images Registration | Chi-Han Peng et al. | WACV | 2023 | [[PDF]](https://arxiv.org/pdf/2210.10414.pdf) |
 | $\mathcal{S}^2$ Net: Accurate Panorama Depth Estimation on Spherical Surface| Meng Li et al. | CVPR | 2023 | [[PDF]](https://arxiv.org/pdf/2301.05845.pdf) [[CODE]](https://github.com/aliyun/S2net)|
 | ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth [^1] | Shariq Farooq Bhat et al. | arXiv | 2023 | [[PDF]](https://arxiv.org/pdf/2302.12288.pdf) [[CODE]](https://github.com/isl-org/ZoeDepth)|
@@ -37,6 +38,7 @@
 
 | Title                                                        | Authors                      | Venue/Publisher | Year | Resources                                                    |
 | :----------------------------------------------------------- | ---------------------------- | ----- | ---- | ------------------------------------------------------------ |
+| Spherical View Synthesis for Self-Supervised 360 Depth Estimation | Nikolaos Zioulis et al.  | 3DV  | 2019 | [[PDF]](https://arxiv.org/pdf/1909.08112.pdf) [[CODE]](https://github.com/VCL3D/SphericalViewSynthesis) |
 | $360^{\circ}$ Depth Estimation from Multiple Fisheye Images with Origami Crown Representation of Icosahedron | Ren Komatsu et al.  | IROS  | 2020 | [[PDF]](https://arxiv.org/pdf/2007.06891.pdf) [[CODE]](https://github.com/matsuren/crownconv360depth) |
 | MODE: Multi-view Omnidirectional Depth Estimation with $360^{\circ}$ Cameras | Ming Li et al.  | ECCV  | 2022 | [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_12) [[CODE]](https://github.com/nju-ee/MODE-2022) |
 | Semi-Supervised 360° Depth Estimation from Multiple Fisheye Cameras with Pixel-Level Selective Loss | Jaewoo Lee et al.  | ICASSP  | 2022 | [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_12) [[CODE]](https://github.com/nju-ee/MODE-2022) |
