@@ -44,4 +44,4 @@
 | Semi-Supervised 360° Depth Estimation from Multiple Fisheye Cameras with Pixel-Level Selective Loss | Jaewoo Lee et al.  | ICASSP  | 2022 | [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_12) [[CODE]](https://github.com/nju-ee/MODE-2022) |
 | Dense Depth Estimation from Multiple 360-degree Images Using Virtual Depth | Seongyeop Yang et al.  | Springer  | 2022 | [[PDF]](https://arxiv.org/pdf/2112.14931.pdf) [[CODE]](https://github.com/vcl-seoultech/360Depth) |
 
-[^1]: These are general depth estimation algorithm that works well for 360 images as well.
+[^1]: These are general depth estimation algorithms which work well for 360 images as well.
