@@ -7,8 +7,8 @@
 | Title                                                        | Authors                      | Venue/Publisher | Year | Resources                                                    |
 | :----------------------------------------------------------- | ---------------------------- | ----- | ---- | ------------------------------------------------------------ |
 | Eliminating the Blind Spot: Adapting 3D Object Detection and Monocular Depth Estimation to $360^{\circ}$ Panoramic Imagery | Grégoire Payen de La Garanderie et al.  | ECCV  | 2018 | [[PDF]](https://arxiv.org/pdf/1808.06253) [[CODE]](https://github.com/gdlg/panoramic-depth-estimation)|
-| HoHoNet: 360 Indoor Holistic Understanding with Latent Horizontal Features | Cheng Sun et al.  | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/2011.11498) [[CODE]](https://github.com/sunset1995/HoHoNet)|
 | 360D: A dataset and baseline for dense depth estimation from 360 images | Antonis Karakottas et al.  | ECCV  | 2018 | [[PDF]](https://vcl3d.github.io/assets/files/360D_ECCV2018_Workshop.pdf)|
+| HoHoNet: 360 Indoor Holistic Understanding with Latent Horizontal Features | Cheng Sun et al.  | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/2011.11498) [[CODE]](https://github.com/sunset1995/HoHoNet)|
 | Deep Depth Estimation on $360^{\circ}$ Images with a Double Quaternion Loss | Brandon Yushan Feng et al.  | 3DV  | 2020 | [[PDF]](https://3dvar.com/Feng2020Deep.pdf)|
 | Geometric Structure Based and Regularized Depth Estimation From 360 Indoor Imagery | Lei Jin et al.  | CVPR  | 2020 | [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jin_Geometric_Structure_Based_and_Regularized_Depth_Estimation_From_360_Indoor_CVPR_2020_paper.pdf)|
 | Foreground-aware dense depth estimation for 360 images | Qi Eng et al.  | WSCG  | 2020 | [[PDF]](http://wscg.zcu.cz/wscg2020/Abstracts/F89.html) |
