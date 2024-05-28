@@ -6,7 +6,9 @@
 
 | Title                                                        | Authors                      | Venue/Publisher | Year | Resources                                                    |
 | :----------------------------------------------------------- | ---------------------------- | ----- | ---- | ------------------------------------------------------------ |
-| 360D: A dataset and baseline for dense depth estimation from 360 images | Antonis Karakottas et al.  | -  | 2018 | [[PDF]](https://vcl3d.github.io/assets/files/360D_ECCV2018_Workshop.pdf)|
+| Eliminating the Blind Spot: Adapting 3D Object Detection and Monocular Depth Estimation to $360^{\circ}$ Panoramic Imagery | Grégoire Payen de La Garanderie et al.  | ECCV  | 2018 | [[PDF]](https://arxiv.org/pdf/1808.06253) [[CODE]](https://github.com/gdlg/panoramic-depth-estimation)|
+| HoHoNet: 360 Indoor Holistic Understanding with Latent Horizontal Features | Cheng Sun et al.  | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/2011.11498) [[CODE]](https://github.com/sunset1995/HoHoNet)|
+| 360D: A dataset and baseline for dense depth estimation from 360 images | Antonis Karakottas et al.  | ECCV  | 2018 | [[PDF]](https://vcl3d.github.io/assets/files/360D_ECCV2018_Workshop.pdf)|
 | Deep Depth Estimation on $360^{\circ}$ Images with a Double Quaternion Loss | Brandon Yushan Feng et al.  | 3DV  | 2020 | [[PDF]](https://3dvar.com/Feng2020Deep.pdf)|
 | Geometric Structure Based and Regularized Depth Estimation From 360 Indoor Imagery | Lei Jin et al.  | CVPR  | 2020 | [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jin_Geometric_Structure_Based_and_Regularized_Depth_Estimation_From_360_Indoor_CVPR_2020_paper.pdf)|
 | Foreground-aware dense depth estimation for 360 images | Qi Eng et al.  | WSCG  | 2020 | [[PDF]](http://wscg.zcu.cz/wscg2020/Abstracts/F89.html) |
@@ -18,6 +20,11 @@
 | SliceNet: deep dense depth estimation from a single indoor panorama using a slice-based representation | Giovanni Pintore et al. | CVPR  | 2021 | [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Pintore_SliceNet_Deep_Dense_Depth_Estimation_From_a_Single_Indoor_Panorama_CVPR_2021_paper.pdf) [[CODE]](https://github.com/crs4/SliceNet)|
 | Improving 360◦ Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning | Ilwi Yun et al. | AAAI  | 2022 | [[PDF]](https://arxiv.org/pdf/2109.10563.pdf) [[CODE]](https://github.com/yuniw18/Joint_360depth)|
 | Depth360: Monocular Depth Estimation using Learnable Axisymmetric Camera Model for Spherical Camera Image | Noriaki Hirose et al. | IROS  | 2022 | [[PDF]](https://arxiv.org/pdf/2110.10415v1.pdf)|
+| ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation | Chuanqing Zhuang et al. | AAAI  | 2022 | [[PDF]](https://arxiv.org/pdf/2112.14440v2) [[CODE]](https://github.com/zcq15/ACDNet)|
+| Rethinking Supervised Depth Estimation for $360^{\circ}$ Panoramic Imagery | Lu He et al. | CVF  | 2022 | [[PDF]](https://openaccess.thecvf.com/content/CVPR2022W/OmniCV/papers/He_Rethinking_Supervised_Depth_Estimation_for_360deg_Panoramic_Imagery_CVPRW_2022_paper.pdf)|
+| HiMODE: A Hybrid Monocular Omnidirectional Depth Estimation Model | Masum Shah Junayed et al. | CVF  | 2022 | [[PDF]](https://arxiv.org/pdf/2204.05007v1) [[CODE]](https://github.com/himode5008/HiMODE)|
+| Neural Contourlet Network for Monocular $360^{\circ}$ Depth Estimation | Zhijie Shen et al. | IEEE TCSVT | 2022 | [[PDF]](https://arxiv.org/pdf/2208.01817v1) [[CODE]](https://github.com/zhijieshen-bjtu/Neural-Contourlet-Network-for-MODE) |
+| GLPanoDepth: Global-to-Local Panoramic Depth Estimation | Jiayang Bai et al. | IEEE TIP | 2022 | [[PDF]](https://arxiv.org/pdf/2202.02796v2) [[CODE]](https://github.com/LeoDarcy/GLPanoDepth) |
 | 360 Depth Estimation in the Wild -- the Depth360 Dataset and the SegFuse Network | Qi Feng et al. | CVPR | 2022 | [[PDF]](https://arxiv.org/pdf/2202.08010.pdf) [[CODE]](https://github.com/HAL-lucination/segfuse) |
 | BiFuse++: Self-supervised and Efficient Bi-projection Fusion for $360^{\circ}$ Depth Estimation | Fu-En Wang et al. | 3D Research | 2022 | [[PDF]](https://arxiv.org/pdf/2209.02952.pdf) [[CODE]](https://github.com/fuenwang/BiFusev2)|
 | PanoFormer: Panorama Transformer for Indoor $360^{\circ}$ Depth Estimation | Zhijie Shen et al. | CVPR | 2022 | [[PDF]](https://arxiv.org/pdf/2203.09283.pdf) [[CODE]](https://github.com/zhijieshen-bjtu/PanoFormer) |
@@ -32,7 +39,8 @@
 | $\mathcal{S}^2$ Net: Accurate Panorama Depth Estimation on Spherical Surface| Meng Li et al. | CVPR | 2023 | [[PDF]](https://arxiv.org/pdf/2301.05845.pdf) [[CODE]](https://github.com/aliyun/S2net)|
 | ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth [^1] | Shariq Farooq Bhat et al. | arXiv | 2023 | [[PDF]](https://arxiv.org/pdf/2302.12288.pdf) [[CODE]](https://github.com/isl-org/ZoeDepth)|
 | EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation | Ilwi Yun et al. | ICCV | 2023 | [[PDF]](https://arxiv.org/pdf/2304.07803.pdf) [[CODE]](https://github.com/yuniw18/EGformer)|
-| Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data [^1] | Lihe Yang et al. | arXiv | 2024 | [[PDF]](https://arxiv.org/pdf/2401.10891.pdf) [[CODE]](https://github.com/LiheYoung/Depth-Anything)|
+| FreDSNet: Joint Monocular Depth and Semantic Segmentation with Fast Fourier Convolutions | Bruno Berenguel-Baeta et al. | ICRA | 2023 | [[PDF]](https://arxiv.org/pdf/2210.01595v2) [[CODE]](https://github.com/Sbrunoberenguel/FreDSNet)|
+| Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data [^1] | Lihe Yang et al. | CVPR | 2024 | [[PDF]](https://arxiv.org/pdf/2401.10891.pdf) [[CODE]](https://github.com/LiheYoung/Depth-Anything)|
 
 ### Multiple 360 images
 
